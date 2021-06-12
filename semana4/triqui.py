@@ -32,29 +32,36 @@ class Triqui:
        
     def evaluar_triqui_filas(self,ficha):
         if self.mat[1][1] == ficha and self.mat[1][2] == ficha and self.mat[1][3] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         if self.mat[2][1] == ficha and self.mat[2][2] == ficha and self.mat[2][3] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         if self.mat[3][1] == ficha and self.mat[3][2] == ficha and self.mat[3][3] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         else:
-            return "no hay triqui"
+           pass
 
     def evaluar_triqui_columnas(self,ficha):
         if self.mat[1][1] == ficha and self.mat[2][1] == ficha and self.mat[3][1] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         if self.mat[1][2] == ficha and self.mat[2][2] == ficha and self.mat[3][2] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         if self.mat[1][3] == ficha and self.mat[2][3] == ficha and self.mat[3][3] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         else:
-            return "no hay triqui"    
+            pass
 
 
     def evaluar_triqui_diagonales(self,ficha):
         if self.mat[1][1] == ficha and self.mat[2][2] == ficha and self.mat[3][3] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         if self.mat[1][3] == ficha and self.mat[2][2] == ficha and self.mat[3][1] == ficha:
-            return "triqui en " + ficha
+            print("triqui en " + ficha)
         else:
-            return "no hay triqui"    
+            pass
+        
+    def evaluar_todo(self, ficha):
+        self.evaluar_triqui_filas(ficha)
+        self.evaluar_triqui_columnas(ficha)
+        self.evaluar_triqui_diagonales(ficha)
+        
+        

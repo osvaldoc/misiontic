@@ -16,7 +16,8 @@ while seguir_juego == True:
     fila=int(input("Digite la fila:"))
     col=int(input("Digite la columna:"))
     triqui.jugar(fila, col, jugador_actual)
-    opcion=input("1. salir del juego \n2. imprimir la triqui \n3.Seguir jugando")
+    triqui.evaluar_todo(jugador_actual)
+    opcion=input("1. salir del juego \n2. imprimir la triqui \n3. Seguir jugando")
     if opcion == "1":
         seguir_juego = False
     elif opcion == "2":
