@@ -1,0 +1,5 @@
+
+Descargar el achivo aca:
+
+
+https://www.datos.gov.co/api/views/2x55-9wxm/rows.csv?accessType=DOWNLOAD&bom=true&format=true
