@@ -21,3 +21,5 @@ class nodoSimple:
 
    def retornarLiga(self):
       return self.liga
+  
+    
