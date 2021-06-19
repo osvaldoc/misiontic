@@ -96,7 +96,7 @@ class LSL:
         self.primero = x.retornarLiga()
         if self.esVacia():
            self.ultimo = None
-        else:
-           y.asignarLiga(x.retornarLiga())
-           if x == self.ultimo:
-              self.ultimo = y
+      else:
+        y.asignarLiga(x.retornarLiga())
+        if x == self.ultimo:
+           self.ultimo = y
