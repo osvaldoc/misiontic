@@ -1,30 +1,40 @@
 <html>
 <head>
     <title>Formulario</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<form>
+<!-- form: no lo vemos, pero hay unas cosas, POST, GET , values???
+Si desean consulten envio formularios hacia python con libreria django
+adelentarse SQL - standard language for storing, manipulating and retrieving data in databases.
+-->
+<form >
 Nombre: <input type="text" name="nombres">
 <br/>
 Apellido: <input type="text" name="apellidos">
 <br/>
-Fecha Nacimiento: <input type="date" name="nombre">
+Fecha Nacimiento: <input type="date" name="fecha-nacimiento">
+<br/>
+Correo electronico: <input type="email" name="correo">
+<br/>
+Numero celular: <input type="number" name="celular">
 <br/>
 Genero: <input type="radio" name="genero" value="F" >Femenino
 <input type="radio" name="genero" value="M" >Masculino
 <br>
 Hobbies: 
-<input type="checkbox" name="hobbies" value="F" >Fornite
-<input type="checkbox" name="hobbies" value="F" >Futbol
-<input type="checkbox" name="hobbies" value="F" >Pintar
-<input type="checkbox" name="hobbies" value="F" >Musica
+<input type="checkbox" name="hobbies" value="Fornite" >Fornite
+<input type="checkbox" name="hobbies" value="Futbol" >Futbol
+<input type="checkbox" name="hobbies" value="Pintar" >Pintar
+<input type="checkbox" name="hobbies" value="Musica" >Musica
 <br>
 Ciudad vives: 
-<select>
+<select name="ciudad">
 <option>Bogota</option>
 <option>Medellin</option>
 <option>Barranquilla</option>
 <option>Cali</option>
+<option>Otros</option>
 </select>
 <br>
 Describa tu vida: 
@@ -32,7 +42,22 @@ Describa tu vida:
 <br>
 <input type="button" onclick="javascript: alert('Grabado con exito!! gracias!')" value="Grabar datos">
 
+<!-- 
+type - tipos de entrada
 
+text: texto - cajon digito informacion 250 caracteres, string, cadena
+date: fecha - muestra un calendario
+email: solo digitar correos
+number: solo recibe numeros
+radio: bolita visual - > "FUNCIONA" como un OR , o
+checkbox: palomita -> "FUNCIONA" como un AND, y
+
+
+select: campo se seleccion, "funciona" como un OR
+textarea: area de texto -> largas, +250
+
+
+-->
 
 </form>
 </body>
