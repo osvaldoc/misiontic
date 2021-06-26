@@ -11,6 +11,108 @@
     <title>Hola nuestro primer paginas CSS!</title>
   </head>
   <body>
-    <h1>Pruebita!</h1>
+    <div class="container">
+      <form class="row g-3 needs-validation" novalidate>
+        <div class="mb-3">
+          <label for="nombre" class="form-label">Nombres:</label>
+          <input type="text" class="form-control" name="nombres" required>
+        </div>
+        <div class="mb-3">
+          <label for="nombre" class="form-label">Apellidos:</label>
+          <input type="text" class="form-control" name="apellidos" required>
+        </div> 
+        <div class="mb-3">
+          <label for="fechaNacimiento" class="form-label">Fecha Nacimiento:</label>
+          <input type="date" class="form-control" name="fechaNacimiento">
+        </div>   
+        <div class="mb-3">
+          <label for="email" class="form-label">Correo electronico</label>
+          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
+        </div>
+        <div class="mb-3">
+          <label for="celular" class="form-label">Numero celular</label>
+          <input type="number" class="form-control" id="exampleFormControlInput1">
+        </div>    
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+          <label class="form-check-label" for="flexRadioDefault1">
+            Femenino
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+          <label class="form-check-label" for="flexRadioDefault2">
+            Masculino
+          </label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+          <label class="form-check-label" for="flexCheckDefault">
+            Fornite
+          </label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+          <label class="form-check-label" for="flexCheckChecked">
+            Futbol
+          </label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+          <label class="form-check-label" for="flexCheckChecked">
+            Pintar
+          </label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+          <label class="form-check-label" for="flexCheckChecked">
+            Musica
+          </label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+          <label class="form-check-label" for="flexCheckChecked">
+            Programar
+          </label>
+        </div>
+        <select class="form-select" aria-label="Default select example">
+          <option selected>Seleccione una ciudad</option>
+          <option value="1">Bogota</option>
+          <option value="2">Medellin</option>
+          <option value="3">Barranquilla</option>
+          <option value="3">Cali</option>
+          <option value="3">Otros</option>
+        </select>
+        <div class="mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">Describa tu vida:	</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <div class="col-12">
+          <button class="btn btn-primary" type="submit">Almacenar la informacion</button>
+        </div>
+        </form>
+    </div>    
+    <script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+        (function () {
+          'use strict'
+        
+          // Fetch all the forms we want to apply custom Bootstrap validation styles to
+          var forms = document.querySelectorAll('.needs-validation')
+        
+          // Loop over them and prevent submission
+          Array.prototype.slice.call(forms)
+            .forEach(function (form) {
+              form.addEventListener('submit', function (event) {
+                if (!form.checkValidity()) {
+                  event.preventDefault()
+                  event.stopPropagation()
+                }
+        
+                form.classList.add('was-validated')
+              }, false)
+            })
+        })()
+</script>
   </body>
 </html>
