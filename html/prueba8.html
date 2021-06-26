@@ -1,0 +1,72 @@
+<html>
+<head>
+    <title>Formulario</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<form>
+    <table>
+        <tr>
+            <td>Nombre:</td>
+            <td><input type="text" name="nombres"></td>
+        </tr>
+        <tr>
+            <td>Apellido:</td>
+            <td><input type="text" name="apellidos"></td>
+        </tr>     
+        <tr>
+            <td>Fecha Nacimiento:</td>
+            <td><input type="date" name="fecha-nacimiento"></td>
+        </tr>             
+        <tr>
+            <td>Correo electronico:</td>
+            <td><input type="email" name="correo"></td>
+        </tr> 
+        <tr>
+            <td>Numero celular:</td>
+            <td><input type="number" name="celular"></td>
+        </tr> 
+        <tr>
+            <td>Genero:</td>
+            <td>
+                <input type="radio" name="genero" value="F" >Femenino
+                <input type="radio" name="genero" value="M" >Masculino
+            </td>
+        </tr> 
+        <tr>
+            <td>Hobbies: </td>
+            <td>
+                <input type="checkbox" name="hobbies" value="Fornite" >Fornite
+                <input type="checkbox" name="hobbies" value="Futbol" >Futbol
+                <input type="checkbox" name="hobbies" value="Pintar" >Pintar
+                <input type="checkbox" name="hobbies" value="Musica" >Musica
+                <input type="checkbox" name="hobbies" value="Programar" >Programar
+            </td>
+        </tr>
+        <tr>
+            <td>Ciudad vives: </td>
+            <td>
+                <select name="ciudad">
+                    <option>Bogota</option>
+                    <option>Medellin</option>
+                    <option>Barranquilla</option>
+                    <option>Cali</option>
+                    <option>Otros</option>
+                </select> 
+            </td>       
+        </tr>
+        <tr>
+            <td>Describa tu vida: </td>
+            <td>
+                <textarea name="descripcion"></textarea>
+            </td>
+        </td>
+        <tr>
+            <td colspan="2">
+                <input type="button" onclick="javascript:alert('Grabado con exito!! muchas gracias!\n pronto lo contactaremos via correo')" value="Grabar Informacion">
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
