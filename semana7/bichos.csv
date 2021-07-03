@@ -1,0 +1,476 @@
+﻿Fecha;Mes;Nombre Sitio;Proceso;Punto;Phylum;Clase;Orden;Familia;Morfoespecie;Abundancia;Densidad (20L)
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;10;0.5
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;16;0.8
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Arthropoda; Branchiopoda ;Diplostraca ;Moinidae ;Moina sp. ;9;0.45
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Arthropoda;Maxillopoda; Calanoida ; Calanoida fsd; Calanoida Mf14  ;23;1.15
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;17;0.85
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Arthropoda;Ostracoda ;Ostracoda osd;Ostracoda fsd;Ostracoda Mf15 ;10;0.5
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;14;0.7
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;9;0.45
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;19;0.95
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Rotifera ;Monogonta ;Ploima ;Notommatidae ;Cephalodella sp. ;9;0.45
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Lecane sp. ;4;0.2
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;6;0.3
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Rotifera ;Monogonta ;Ploima ;Notommatidae ;Cephalodella sp. ;11;0.55
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Rotifera ;Monogonta ;Ploima ;Lepadellidae ;Colurella sp.;7;0.35
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Lecane sp. ;9;0.45
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Protozoa ;Filosia ;Aconchulinida ;Cyphoderiidae ;Cyphoderia sp.;3;0.15
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;16;0.8
+43704;Agosto;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Arthropoda;Maxillopoda; Calanoida ; Calanoida fsd; Calanoida Mf14  ;10;0.5
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Rotifera ;Monogonta ;Ploima ;Notommatidae ;Cephalodella sp. ;8;0.4
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Rotifera ;Monogonta ;Ploima ;Synchaetidae ;Polyarthra sp. ;7;0.35
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Rotifera ;Monogonta ;Ploima ;Lepadellidae ;Colurella sp.;7;0.35
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Arthropoda; Branchiopoda ;Diplostraca ;Daphniidae; Ceriodaphnia sp. ;4;0.2
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;2;0.1
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;12;0.6
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera ;Bdelloidea ;Bdelloidea osd;Adinetidae ;Adineta sp. ;3;0.15
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;10;0.5
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Notommatidae ;Cephalodella sp. ;11;0.55
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Brachionidae;Keratella sp. ;7;0.35
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Synchaetidae ;Polyarthra sp. ;10;0.5
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Arthropoda; Branchiopoda ;Diplostraca ;Bosminidae ;Bosminopsis sp. ;11;0.55
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Protozoa ;Lobosa; Arcellinida ;Centropyxidae ;Centropyxis sp. ;4;0.2
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;43;2.15
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;36;1.8
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Lepadellidae ;Colurella sp.;5;0.25
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Euchlanidae ;Euchlanis sp. ;82;4.1
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Brachionidae;Keratella sp. ;34;1.7
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Monostyla sp. ;10;0.5
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Brachionidae;Platyias sp. ;12;0.6
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Synchaetidae ;Polyarthra sp. ;13;0.65
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera ;Monogonta ;Ploima ;Trichocercidae ;Trichocerca sp. ;15;0.75
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Protozoa ;Lobosa; Arcellinida ;Centropyxidae ;Centropyxis sp. ;19;0.95
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;15;0.75
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;11;0.55
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Maxillopoda; Calanoida ; Calanoida fsd; Calanoida Mf14  ;8;0.4
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Ostracoda ;Ostracoda osd;Ostracoda fsd;Ostracoda Mf15 ;4;0.2
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;28;1.4
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;123;6.15
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda; Branchiopoda ;Diplostraca ;Bosminidae ;Bosminopsis sp. ;9;0.45
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;32;1.6
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;18;0.9
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda; Branchiopoda ;Diplostraca ;Moinidae ;Moina sp. ;3;0.15
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Maxillopoda; Calanoida ; Calanoida fsd; Calanoida Mf14  ;13;0.65
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;27;1.35
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;44;2.2
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda; Branchiopoda ;Diplostraca ;Bosminidae ;Bosminopsis sp. ;5;0.25
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda; Branchiopoda ;Diplostraca ;Moinidae ;Moina sp. ;20;1
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Maxillopoda; Calanoida ; Calanoida fsd; Calanoida Mf14  ;14;0.7
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;34;1.7
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;32;1.6
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;26;1.3
+43705;Agosto;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Ostracoda ;Ostracoda osd;Ostracoda fsd;Ostracoda Mf15 ;4;0.2
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;13;0.65
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera ;Monogonta ;Ploima ;Trichocercidae ;Trichocerca sp. ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Lecane sp. ;2;0.1
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera ;Monogonta ;Ploima ;Synchaetidae ;Polyarthra sp. ;16;0.8
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera ;Monogonta ; Flosculariaceae ;Filiniidae ;Filinia sp. ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;5;0.25
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;2;0.1
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;7;0.35
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;4;0.2
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;6;0.3
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Rotifera ;Monogonta ;Ploima ;Brachionidae;Keratella sp. ;4;0.2
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Lecane sp. ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;5;0.25
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Rotifera ;Monogonta ; Flosculariaceae ;Filiniidae ;Filinia sp. ;4;0.2
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Rotifera ;Monogonta ; Flosculariaceae ;Testudinellidae ;Testudinella sp.;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Lecane sp. ;5;0.25
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Rotifera ;Monogonta ;Ploima ;Synchaetidae ;Polyarthra sp. ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Rotifera ;Monogonta ;Ploima ;Trichocercidae ;Trichocerca sp. ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;5;0.25
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;11;0.55
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Rotifera ;Monogonta ;Ploima ;Lepadellidae ;Colurella sp.;8;0.4
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Rotifera ;Monogonta ;Ploima ;Trichocercidae ;Trichocerca sp. ;2;0.1
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;6;0.3
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Arthropoda;Maxillopoda; Calanoida ; Calanoida fsd; Calanoida Mf14  ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;3;0.15
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Nematoda ;Nematoda csd;Nematoda osd;Nematoda fsd;Nematoda Mf34 ;5;0.25
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Asplanchnidae ;Asplanchna sp. ;5;0.25
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Notommatidae ;Cephalodella sp. ;8;0.4
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Brachionidae;Keratella sp. ;6;0.3
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Synchaetidae ;Polyarthra sp. ;6;0.3
+43706;Agosto;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Estrategica;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;5;0.25
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;3;0.15
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;8;0.4
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera ;Monogonta ;Ploima ;Brachionidae;Plationus sp.;3;0.15
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera ;Monogonta ;Ploima ;Brachionidae;Keratella sp. ;10;0.5
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Lecane sp. ;3;0.15
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;4;0.2
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Arthropoda; Branchiopoda ;Diplostraca ;Bosminidae ;Bosminopsis sp. ;2;0.1
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Arthropoda;Maxillopoda;Cyclopoida ;Cyclopoida fsd;Cyclopoida Mf26 ;7;0.35
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;5;0.25
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;2;0.1
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;4;0.2
+43707;Agosto;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Arthropoda;Maxillopoda; Maxillopoda osd; Maxillopoda fsd; Maxillopoda  Mf6 ;3;0.15
+43708;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Protozoa ;Lobosa; Arcellinida ;Arcellidae;Arcella sp.;5;0.25
+43708;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Protozoa ;Lobosa; Arcellinida ;Difflugiidae ;Difflugia sp. ;7;0.35
+43708;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Arthropoda; Branchiopoda ;Diplostraca ;Bosminidae ;Bosminopsis sp. ;5;0.25
+43708;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Arthropoda;Ostracoda ;Ostracoda osd;Ostracoda fsd;Ostracoda Mf15 ;9;0.45
+43708;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;5;0.25
+43708;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera ;Monogonta ;Ploima ;Brachionidae;Keratella sp. ;2;0.1
+43708;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera ;Monogonta ;Ploima ;Lecanidae ;Lecane sp. ;3;0.15
+43707;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera ;Monogonta ;Ploima ;Lepadellidae ;Colurella sp.;8;0.4
+43707;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;17;0.85
+43707;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;150;7.5
+43707;Agosto;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera ;Monogonta ;Ploima ;Brachionidae; Brachionus sp. ;140;7
+43763;Octubre;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Rotifera;Monogonta;Ploima;Lecanidae;Monostyla sp.;3;0.15
+43763;Octubre;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Ciliophora;Ciliatea;Hymenostomatida;Parameciidae;Paramecium sp.;7;0.35
+43763;Octubre;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Protección;Rotifera;Monogonta;Ploima;Lecanidae;Monostyla sp.;4;0.2
+43763;Octubre;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Plationus sp.;7;0.35
+43764;Octubre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;2;0.1
+43764;Octubre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;2;0.1
+43764;Octubre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Protección;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;2;0.1
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;5;0.25
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;6;0.3
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;3;0.15
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Estrategica;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;3;0.15
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;7;0.35
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Estrategica;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;3;0.15
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;5;0.25
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp.;8;0.4
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;8;0.4
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;12;0.6
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Arthropoda;Maxillopoda;Calanoida;Calanoida fsd;Calanoida Mf14;5;0.25
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Arthropoda;Ostracoda;Ostracoda osd;Ostracoda fsd;Ostracoda Mf15;2;0.1
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;27;1.35
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;5;0.25
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;2;0.1
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;3;0.15
+43766;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;6;0.3
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Alona sp.;1;0.05
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;5;0.25
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Protozoa;Lobosa;Arcellinida;Centropyxidae;Centropyxis sp.;5;0.25
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;10;0.5
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Protozoa;Filosia;Aconchulinida;Euglyphidae;Euglypha sp.;2;0.1
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;5;0.25
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Ostracoda;Ostracoda osd;Ostracoda fsd;Ostracoda Mf15;4;0.2
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;6;0.3
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;3;0.15
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Platyias sp.;2;0.1
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;3;0.15
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;2;0.1
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Centro;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;2;0.1
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Caño Principal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;3;0.15
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Caño Principal;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;3;0.15
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Estrategica;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosmina sp.;37;1.85
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Estrategica;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;7;0.35
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;8;0.4
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp.;6;0.3
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Protozoa;Lobosa;Arcellinida;Centropyxidae;Centropyxis sp.;5;0.25
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;46;2.3
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;6;0.3
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;5;0.25
+43764;Octubre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;4;0.2
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Rotifera;Monogonta ;Ploima;Brachionidae;Brachionus sp.;8;0.4
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;4;0.2
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;15;0.75
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;37;1.85
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Protozoa;Lobosa;Arcellinida;Centropyxidae;Centropyxis sp.;2;0.1
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;2;0.1
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;9;0.45
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Protozoa;Lobosa;Arcellinida;Centropyxidae;Centropyxis sp.;6;0.3
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;3;0.15
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Ciliophora;Ciliatea;Hymenostomatida;Parameciidae;Paramecium sp.;5;0.25
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;104;5.2
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Caño Principal;Rotifera;Monogonta;Ploima;Notommatidae;Cephalodella sp.;11;0.55
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;39;1.95
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosmina sp.;6;0.3
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;20;1
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;6;0.3
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;5;0.25
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;24;1.2
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;6;0.3
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera;Monogonta;Ploima;Lepadellidae;Colurella sp.;3;0.15
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;25;1.25
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;8;0.4
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;5;0.25
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosmina sp.;13;0.65
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera;Monogonta;Ploima;Notommatidae;Cephalodella sp.;7;0.35
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;7;0.35
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;6;0.3
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;6;0.3
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;66;3.3
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;5;0.25
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;6;0.3
+43760;Octubre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;6;0.3
+43765;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Caño Principal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;8;0.4
+43765;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Caño Principal;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;2;0.1
+43765;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Caño Principal;Ciliophora;Ciliatea;Peritrichida;Vorticellidae;Vorticella sp.;3;0.15
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp.;2;0.1
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;3;0.15
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Daphniidae;Daphnia sp.;3;0.15
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Protección;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;2;0.1
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;2;0.1
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;6;0.3
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Centro;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;3;0.15
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Centro;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;5;0.25
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Centro;Rotifera;Monogonta;Ploima;Brachionidae;Plationus sp.;3;0.15
+43764;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;2;0.1
+43764;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;10;0.5
+43764;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;3;0.15
+43764;Octubre;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Plationus sp.;9;0.45
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Estrategica;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp.;6;0.3
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;3;0.15
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Estrategica;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;5;0.25
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;16;0.8
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;2;0.1
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Estrategica;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;3;0.15
+43764;Octubre;Ciénaga Nogales;EPM-Convenio;Ciénaga Nogales Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Plationus sp.;72;3.6
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;2;0.1
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;7;0.35
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Ploima;Lecanidae;Lecane sp.;3;0.15
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Ploima;Brachionidae;Plationus sp.;3;0.15
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;4;0.2
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;3;0.15
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;4;0.2
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;7;0.35
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Arthropoda;Maxillopoda;Maxillopoda osd;Maxillopoda fsd; Maxillopoda  Mf6 ;9;0.45
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Plationus sp.;2;0.1
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;8;0.4
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;4;0.2
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;2;0.1
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;8;0.4
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;7;0.35
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;7;0.35
+43762;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Arthropoda;Maxillopoda;Cyclopoida;Cyclopoida fsd;Cyclopoida Mf26;4;0.2
+43763;Octubre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;14;0.7
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;62;3.1
+43818;Diciembre;Ciénaga Granada;EPM-Convenio; Ciénaga Granada Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;4;0.2
+43818;Diciembre;Ciénaga Granada;EPM-Convenio; Ciénaga Granada Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;2;0.1
+43761;Octubre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;2;0.1
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;15;0.75
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;18;0.9
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp. ;12;0.6
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;14;0.7
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;27;1.35
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp. ;4;0.2
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;23;1.15
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Maxillopoda;---;---;Morfo 6;62;3.1
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;5;0.25
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;17;0.85
+43814;Diciembre;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Arthropoda;Maxillopoda;---;---;Morfo 6;7;0.35
+43815;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;9;0.45
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;9;0.45
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp. ;7;0.35
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera;Monogonta ;Ploima;Brachionidae;Brachionus sp.;6;0.3
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;8;0.4
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;12;0.6
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera;Monogonta ;Ploima;Lecanidae;Lecane sp.;5;0.25
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera;Monogonta ;Ploima;Lecanidae;Monostyla sp.;5;0.25
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Maxillopoda;Calanoida;---;Morfo 14;7;0.35
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Ostracoda;---;---;Morfo 15;6;0.3
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;4;0.2
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Centro;Rotifera;Monogonta ;Ploima;Trichocercidae;Trichocerca sp.;12;0.6
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Protección;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;4;0.2
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Estrategica;Rotifera;Monogonta ;Ploima;Brachionidae;Brachionus sp.;5;0.25
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;5;0.25
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;10;0.5
+43816;Diciembre;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Zona Afectación;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;7;0.35
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;28;1.4
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;49;2.45
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Lecanidae;Lecane sp.;5;0.25
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;6;0.3
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;19;0.95
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;5;0.25
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;12;0.6
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Protección;Arthropoda;Maxillopoda;---;---;Morfo 6;4;0.2
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;6;0.3
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;117;5.85
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;42;2.1
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Ciliophora;Ciliatea;---;---;Morfo 13;265;13.25
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Cyanobacteria (Phylum);Cyanophyceae;Nostocales;Nostocaceae;Anabaenasp.;7;0.35
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Bacillariophyta;Coscinodiscophyceae;Aulacoseirales;Aulacoseiraceae;Aulacoseirasp.;2;0.1
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Ochrophyta;Xanthophyceae;Mischococcales;Centritractaceae;Centritractussp.;5;0.25
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Euglenophyta;Euglenophyceae;Euglenales;Phacaceae;Lepocinclissp.;17;0.85
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Chlorophyta;Chlorophyceae;Sphaeropleales;Selenastraceae;Monoraphidiumsp.;8;0.4
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschiasp.;4;0.2
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Euglenophyta;Euglenophyceae;Euglenales;Phacaceae;Phacussp.;5;0.25
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Cyanobacteria (Phylum);Cyanophyceae;Oscillatoriales;Oscillatoriaceae;Phormidiumsp.;4;0.2
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Bacillariophyta;Bacillariophyceae;Fragilariales;Fragilariaceae;Synedrasp.;3;0.15
+43817;Diciembre;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Euglenophyta;Euglenophyceae;Euglenales;Euglenaceae;Trachelomonassp.;23;1.15
+43818;Diciembre;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Caño Principal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;5;0.25
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp. ;7;0.35
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;10;0.5
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;4;0.2
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Ostracoda;---;---;Morfo 15;7;0.35
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;5;0.25
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Plationus sp.;3;0.15
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;7;0.35
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp. ;5;0.25
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Protozoa;Filosia;Aconchulinida;Euglyphidae;Euglypha sp.;4;0.2
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Protección;Arthropoda;Maxillopoda;---;---;Morfo 6;3;0.15
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Estrategica;Protozoa;Filosia;Aconchulinida;Euglyphidae;Euglypha sp.;4;0.2
+43819;Diciembre;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona Estrategica;Arthropoda;Maxillopoda;---;---;Morfo 6;3;0.15
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;;0
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;;0
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;8;0.4
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Estrategica;Arthropoda;Maxillopoda;Calanoida;---;Morfo 14;4;0.2
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Estrategica;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;4;0.2
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Arthropoda;Branchiopoda;Diplostraca;Bosminidae;Bosminopsis sp. ;2;0.1
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;4;0.2
+43819;Diciembre;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Arthropoda;Ostracoda;---;---;Morfo 15;5;0.25
+43885;Febrero;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Protozoa;Lobosa;Arcellinida;Centropyxidae;Centropyxis sp.;10;0.013
+43885;Febrero;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;31;0.0403
+43885;Febrero;Ciénaga Colombia;EPM-Convenio;Ciénaga Colombia Caño Principal;Protozoa;Filosia;Aconchulinida;Euglyphidae;Euglypha sp.;5;0.0065
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Caño Principal;Rotifera;Bdelloidea;---;Adinetidae;Adineta sp.;5;0.00645
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Caño Principal;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;4;0.005160
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Caño Principal;Arthropoda;Maxillopoda;---;---;Morfo 6;7;0.009030
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Caño Principal;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;7;0.009030
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Centro;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;3;0.003930
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;2;0.002620
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;4;0.005240
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Centro;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;7;0.009170
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;3;0.003855
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;8;0.010280
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;7;0.008995
+43888;Febrero;Ciénaga Corrales;EPM-Convenio;Ciénaga Corrales Zona de Afectación;Arthropoda;Maxillopoda;---;---;Morfo 6;5;0.006425
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;7;0.009450
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;9;0.012150
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;9;0.012150
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;10;0.013500
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;16;0.021600
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;24;0.032400
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Arthropoda;Maxillopoda;---;---;Morfo 6;12;0.016200
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Rotifera;Monogonta;Ploima;Brachionidae;Platyias sp.;9;0.012150
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;13;0.017550
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Centro;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;3;0.004050
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;12;0.015600
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Afectación;Arthropoda;Maxillopoda;Calanoida;---;Morfo 14;3;0.003900
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Afectación;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;8;0.010400
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Afectación;Arthropoda;Maxillopoda;---;---;Morfo 6;14;0.018200
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Platyias sp.;11;0.014300
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Afectación;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;19;0.024700
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Afectación;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;11;0.014300
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona Estratégica;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;3;0.003900
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona Estratégica;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;5;0.006500
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona Estratégica;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;15;0.019500
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona Estratégica;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;10;0.013000
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona Estratégica;Arthropoda;Maxillopoda;---;---;Morfo 6;8;0.010400
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona Estratégica;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;11;0.014300
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona Estratégica;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;4;0.005200
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;6;0.006300
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;8;0.008400
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Protozoa;Filosia;Aconchulinida;Euglyphidae;Euglypha sp.;5;0.005250
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;5;0.005250
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;6;0.006300
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;14;0.014700
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Arthropoda;Maxillopoda;---;---;Morfo 6;15;0.015750
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Rotifera;Monogonta;Ploima;Brachionidae;Platyias sp.;7;0.007350
+43882;Febrero;Ciénaga El Olvido;EPM-Convenio;Ciénaga El Olvido Zona de Protección ;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;8;0.008400
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;4;0.004660
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;5;0.005825
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Ploima;Lecanidae;Monostyla sp.;7;0.008155
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Ploima;Brachionidae;Platyias sp.;3;0.003495
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraiso Caño Principal;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;6;0.006990
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;6;0.007560
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Lecanidae;Lecane sp.;3;0.003780
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;4;0.005040
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Afectación;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;2;0.002520
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;9;0.012015
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;2;0.002670
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;7;0.009345
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;5;0.006675
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Arthropoda;Maxillopoda;---;---;Morfo 6;7;0.009345
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Zona Estrategica;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;5;0.006675
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;5;0.006750
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;3;0.004050
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;8;0.010800
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;5;0.006750
+43887;Febrero;Ciénaga El Paraíso;EPM-Convenio;Ciénaga El Paraíso Centro;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;6;0.008100
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;12;0.015942
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;14;0.018599
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;14;0.018599
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;2;0.002657
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;8;0.010628
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Arthropoda;Maxillopoda;---;---;Morfo 6;6;0.007971
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;3;0.003985
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;8;0.010628
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Caño Principal;Protozoa;Filosia;Aconchulinida;Euglyphidae;Trinema sp.;8;0.010628
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;6;0.008271
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Centro;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;5;0.006892
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Centro;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;7;0.009649
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;5;0.006892
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Centro;Rotifera;Monogonta;Ploima;Lecanidae;Lecane sp.;6;0.008271
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Centro;Arthropoda;Maxillopoda;---;---;Morfo 6;6;0.008271
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;5;0.006393
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;1;0.001279
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;10;0.012785
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;3;0.003835
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;6;0.007671
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;6;0.007671
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Ploima;Lecanidae;Monostyla sp.;4;0.005114
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Arthropoda;Maxillopoda;---;---;Morfo 6;8;0.010228
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Ploima;Brachionidae;Platyias sp.;10;0.012785
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;11;0.014064
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga Zona de Afectación El Sapo;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;6;0.007671
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;5;0.006375
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;5;0.006375
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;7;0.008925
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Protección;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;6;0.007650
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;5;0.006375
+43886;Febrero;Ciénaga El Sapo;EPM-Convenio;Ciénaga El Sapo Zona Protección;Ciliophora;Ciliatea;Peritrichida;Vorticellidae;Zoothamnium sp.;4;0.005100
+43888;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Caño Principal;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;3;0.003900
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;2;0.002550
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Protozoa;Lobosa;Arcellinida;Centropyxidae;Centropyxis sp.;9;0.011475
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;8;0.010200
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Arthropoda;Branchiopoda;Diplostraca;Sididae;Diaphanosoma sp.;5;0.006375
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;5;0.006375
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;4;0.005100
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;3;0.003825
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;9;0.011475
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Arthropoda;Maxillopoda;---;---;Morfo 6;10;0.012750
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Rotifera;Monogonta;Ploima;Brachionidae;Platyias sp.;8;0.010200
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Centro;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;10;0.012750
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;4;0.005100
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;6;0.007650
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Arthropoda;Branchiopoda;Diplostraca;Chydoridae;Chydorus sp.;4;0.005100
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;7;0.008925
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Rotifera;Monogonta;Ploima;Lecanidae;Lecane sp.;3;0.003825
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;10;0.012750
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Arthropoda;Maxillopoda;---;---;Morfo 6;6;0.007650
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;5;0.006375
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Afectación;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;5;0.006375
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;3;0.004050
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Protección;Rotifera;Monogonta;Flosculariaceae;Hexarthridae;Hexarthra sp.;10;0.013500
+43887;Febrero;Ciénaga Hoyo Grande;EPM-Convenio;Ciénaga Hoyo Grande Zona Protección;Rotifera;Monogonta;Ploima;Trichocercidae;Trichocerca sp.;3;0.004050
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;25;0.03175
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;41;0.05207
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;99;0.12573
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Centro;Arthropoda;Maxillopoda;---;---;Morfo 6;86;0.10922
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;64;0.084160
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Branchiopoda;Diplostraca;Daphniidae;Ceriodaphnia sp.;41;0.053915
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Rotifera;Monogonta;Flosculariaceae;Filiniidae;Filinia sp.;5;0.006575
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;4;0.005260
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;5;0.006575
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;100;0.131500
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Afectación;Arthropoda;Maxillopoda;---;---;Morfo 6;43;0.056545
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;16;0.020800
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Daphniidae;Ceriodaphnia sp.;5;0.006500
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;7;0.009100
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;46;0.059800
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Protección;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;4;0.005200
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;6;0.007500
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;4;0.005000
+43883;Febrero;Ciénaga La Ilusión;EPM-Convenio;Ciénaga La Ilusión Zona Estrategica;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;5;0.006250
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;15;0.019875
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;18;0.023850
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Rotifera;Monogonta;Ploima;Lecanidae;Lecane sp.;13;0.017225
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Caño Principipal;Protozoa;Filosia;Aconchulinida;Euglyphidae;Trinema sp.;7;0.009275
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Rotifera;Monogonta;Ploima;Brachionidae;Brachionus sp.;83;0.104580
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Rotifera;Monogonta;Ploima;Notommatidae;Cephalodella sp.;4;0.005040
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Rotifera;Monogonta;Ploima;Brachionidae;Keratella sp.;104;0.131040
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;4;0.005040
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;26;0.032760
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Centro;Arthropoda;Maxillopoda;---;---;Morfo 6;92;0.115920
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;114;0.145350
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Protozoa;Lobosa;Arcellinida;Difflugiidae;Difflugia sp.;5;0.006375
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Arthropoda;Branchiopoda;Diplostraca;Moinidae;Moina sp.;9;0.011475
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;47;0.059925
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Afectación;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;7;0.008925
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Estrategica;Arthropoda;Maxillopoda;Cyclopoida;---;Morfo 26;6;0.007440
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Protozoa;Lobosa;Arcellinida;Arcellidae;Arcella sp.;39;0.045825
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Rotifera;Monogonta;Ploima;Lecanidae;Lecane sp.;2;0.002350
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Arthropoda;Maxillopoda;Harpacticoida;---;Morfo 27;6;0.007050
+43884;Febrero;Ciénaga Palomar;EPM-Convenio;Ciénaga Palomar Zona Protección;Rotifera;Monogonta;Ploima;Synchaetidae;Polyarthra sp.;2;0.002350
