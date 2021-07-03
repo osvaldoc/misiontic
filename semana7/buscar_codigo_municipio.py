@@ -29,5 +29,5 @@ with open('Departamentos_y_municipios_de_Colombia.csv',
   #-1 es porque encabezado
   #print("Total municipios", contador-1)
       
-#hasta las 9:30pm, probar con su municipio, para saber el codigo de su
+#probar con su municipio, para saber el codigo de su
 #municipio abrir el archivo en excel o buscarlo en el print de python
