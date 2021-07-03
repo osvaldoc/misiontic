@@ -7,6 +7,7 @@ Created on Sat Jul  3 07:32:42 2021
 
 import pandas as pd
 #https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
+#no se sube porque es pesado, hay que descargarlo y ponerlo en su carpeta respectiva
 archivo="C:/tmp/Casos_positivos_de_COVID-19_en_Colombia.csv"
 #Leer archivo covid
 df=pd.read_csv(archivo)
@@ -25,4 +26,4 @@ while  seguir_ciclo:
     else:
         print("Tontuelo dije S/N no otra letra")
         seguir_ciclo = False
-
+#Nos vemos a las 10:10am, preparen retos que sus compañeros van a ayudar
